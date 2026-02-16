@@ -21,12 +21,12 @@ A modern React application demonstrating image pagination with a custom paginati
 
 ## Project Structure
 
-src/
-├── Components/
-│   ├── Pagination.jsx   
-│   └── Posts.jsx I
-├── App.jsx       
-├── index.css
+src/<br>
+├── Components/<br>
+│   ├── Pagination.jsx<br>   
+│   └── Posts.jsx<br>
+├── App.jsx<br>     
+├── index.css<br>
 └── main.jsx    
 
 
