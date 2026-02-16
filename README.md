@@ -18,7 +18,16 @@ A modern React application demonstrating image pagination with a custom paginati
 - **HTTP Client**: Axios 1.13.4
 - **Code Quality**: ESLint 9.39.1
 - **PostCSS**: For processing CSS with Tailwind
-   
+
+## Project Structure
+
+src/
+├── Components/
+│   ├── Pagination.jsx   
+│   └── Posts.jsx I
+├── App.jsx       
+├── index.css
+└── main.jsx    
 
 
 
