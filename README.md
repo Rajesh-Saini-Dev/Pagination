@@ -23,9 +23,9 @@ A modern React application demonstrating image pagination with a custom paginati
 
 src/<br>
 ├── Components/<br>
-│   ├── Pagination.jsx<br>   
+│   ├── Pagination.jsx   
 │   └── Posts.jsx<br>
-├── App.jsx<br>     
+├── App.jsx     
 ├── index.css<br>
 └── main.jsx    
 
